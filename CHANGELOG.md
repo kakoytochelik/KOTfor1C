@@ -1,5 +1,12 @@
 # Change Log
 
+# 1.11.3
+- **Deprecated release**:
+    - Расширение `AlexeyEremeev.1c-drive-test-helper` переведено в статус deprecated.
+    - Добавлена явная пометка о прекращении развития старого ID в `README`.
+    - Добавлена ссылка на новое расширение: https://marketplace.visualstudio.com/items?itemName=AlexeyEremeev.kot-test-toolkit
+    - Обновлена иконка старого расширения (с маркировкой deprecated) для упрощения миграции.
+
 # 1.11.2
 - **Новые возможности**:
     - **Менеджер параметров Сборки Сценариев:**

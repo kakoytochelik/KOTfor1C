@@ -1,5 +1,12 @@
 # Change Log
 
+# 1.11.3
+- **Deprecated release**:
+    - Extension `AlexeyEremeev.1c-drive-test-helper` has been moved to deprecated status.
+    - Added explicit end-of-life notice for the old ID in `README`.
+    - Added link to the new extension: https://marketplace.visualstudio.com/items?itemName=AlexeyEremeev.kot-test-toolkit
+    - Updated old extension icon (deprecated label) to make migration clearer.
+
 # 1.11.2
 - **New Features**:
     - **Build Scenario Parameters Manager:**

@@ -1,12 +1,19 @@
 # 1C:Drive Test Helper
 <p align="center">
   <img src="./docs/1CDriveTestHelper_poster.png" alt="1C:Drive Test Helper Icon" width="600"/><br>
-  <a href="CHANGELOG.en.md"><img src="https://img.shields.io/badge/version-1.11.2-yellow"></a>
+  <a href="CHANGELOG.en.md"><img src="https://img.shields.io/badge/version-1.11.3-yellow"></a>
 </p>
 
 <p align="center">
   <a href="README.md">🇷🇺 Русский</a> | <a href="README.en.md">🇺🇸 English</a>
 </p>
+
+> [!WARNING]
+> This extension is now **deprecated** and is no longer developed under ID `AlexeyEremeev.1c-drive-test-helper`.
+> Please migrate to the new extension: **KOT for 1C**  
+> https://marketplace.visualstudio.com/items?itemName=AlexeyEremeev.kot-test-toolkit
+>  
+> Version `1.11.3` is the final release for the old ID.
 
 Helper for developing and managing 1C regression tests in VS Code. Speeds up navigation between scenarios, creating new scenarios from templates, and managing phases and builds for test runs.
 

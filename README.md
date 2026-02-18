@@ -1,12 +1,19 @@
 # 1C:Drive Test Helper
 <p align="center">
   <img src="./docs/1CDriveTestHelper_poster.png" alt="Иконка 1C:Drive Test Helper" width="600"/><br>
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.11.2-yellow"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.11.3-yellow"></a>
 </p>
 
 <p align="center">
   <a href="README.md">🇷🇺 Русский</a> | <a href="README.en.md">🇺🇸 English</a>
 </p>
+
+> [!WARNING]
+> Это расширение переведено в статус **deprecated** и больше не развивается под ID `AlexeyEremeev.1c-drive-test-helper`.
+> Переходите на новое расширение: **KOT for 1C**  
+> https://marketplace.visualstudio.com/items?itemName=AlexeyEremeev.kot-test-toolkit
+>  
+> Версия `1.11.3` — финальный релиз старого ID.
 
 Помощник для разработки и управления регрессионными тестами 1С в VS Code. Ускоряет навигацию между сценариями, создание новых сценариев по шаблонам и управление фазами и сборкой для тестовых запусков.
 
